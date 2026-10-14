@@ -1,0 +1,76 @@
+CISCO PACKET TRACER NETWORKING PROJECTS
+
+Overview
+--------
+This repository contains four beginner-level networking practicals implemented using Cisco Packet Tracer. These projects demonstrate fundamental networking concepts, router configuration, IP addressing, and network communication.
+
+Projects
+--------
+
+1. TELNET CONFIGURATION
+   Objective:
+   To configure remote access to a Cisco router using Telnet.
+
+   Concepts Learned:
+   - Remote router management
+   - Virtual terminal (VTY) line configuration
+   - Username and password authentication
+   - IP connectivity testing
+
+2. NTP CONFIGURATION
+   Objective:
+   To explore Network Time Protocol (NTP) and router clock synchronization.
+
+   Concepts Learned:
+   - Router date and time
+   - NTP server configuration
+   - Network time synchronization
+   - NTP status verification
+
+   Note: NTP synchronization depends on device support and successful communication with an NTP server.
+
+3. DHCP CONFIGURATION
+   Objective:
+   To configure Dynamic Host Configuration Protocol (DHCP) for automatic IP address assignment.
+
+   Concepts Learned:
+   - DHCP pool configuration
+   - Automatic IP address allocation
+   - Subnet masks and default gateways
+   - DHCP lease verification
+
+4. STATIC ROUTING
+   Objective:
+   To enable communication between different IP networks using manually configured routes.
+
+   Concepts Learned:
+   - Router interface configuration
+   - IP addressing and subnetting
+   - Static route configuration
+   - Routing table verification
+   - End-to-end connectivity testing
+
+Tools Used
+----------
+- Cisco Packet Tracer
+- Cisco IOS CLI
+- IPv4 addressing
+- Basic networking commands
+
+Learning Outcomes
+-----------------
+These practicals helped develop hands-on experience with router configuration, network services, IP addressing, remote management, and routing fundamentals.
+
+Repository Contents
+-------------------
+- Cisco Packet Tracer (.pkt) project files
+- Project documentation
+- Configuration and testing details
+
+Purpose
+-------
+This repository is intended for educational purposes and to document my practical learning in computer networking.
+
+Note
+----
+The project files demonstrate lab configurations. Actual results may depend on the Packet Tracer version, device model, and configuration used.
